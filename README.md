@@ -59,5 +59,19 @@ sudo startTomcat
 
 ## Screenshots
 
+### Pipeline Script
+![script](https://github.com/WatashiwaSid/jenkins-cicd/blob/70796f152ff867934dfa6789b187ffa2de8db24d/uploads/script.png)
+
+### Pipeline Status
+![pipeline](https://github.com/WatashiwaSid/jenkins-cicd/blob/6c39dd6833bf08543fa2afca12e3f20f40b2c150/uploads/pipeline.png)
+
+### Sonarcube Analysis Report
+![sonarcube](https://github.com/WatashiwaSid/jenkins-cicd/blob/6c39dd6833bf08543fa2afca12e3f20f40b2c150/uploads/sonar.png)
+
+### Apache Tomcat Server
+![tomcat](https://github.com/WatashiwaSid/jenkins-cicd/blob/6c39dd6833bf08543fa2afca12e3f20f40b2c150/uploads/tomcat.png)
+
+### Artificat Deployment
+![deployment](https://github.com/WatashiwaSid/jenkins-cicd/blob/6c39dd6833bf08543fa2afca12e3f20f40b2c150/uploads/petclinic.png)
 
 
